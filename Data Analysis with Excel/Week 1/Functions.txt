@@ -1,0 +1,67 @@
+Functions in Ribbon are:
+1. Home Tab:
+	1. Clipboard
+	2. Font
+	3. Alignment
+	4. Number
+	5. Styles
+	6. Cells
+	7. Editing
+	8. Addins
+
+2. Insert Tab
+	1. Tables
+	2. Illustrations
+	3. Charts
+	4. Tours
+	5. Sparklines
+	6. Filters
+	7. Links
+	8. Comments
+	9. Text
+	10. Symbols
+
+3. Page Layout Tab
+	1. Themes
+	2. Page Setup
+	3. Scale to Fit
+	4. Sheet Options
+	5. Arange
+
+4. Formulas Tab
+	1. Function library
+	2. Defined Names
+	3. Formula Editing
+	4. Calculation
+
+5. Data Tab
+	1. Get and Transform Data
+	2. Queries and Connections
+	3. Data Types
+	4. Sort and Filter
+	5. Data Tools
+	6. Forecast
+	7. Outline
+
+6. Review Tab
+	1. Proofing
+	2. Accessibility
+	3. Insights
+	4. Language
+	5. Changes
+	6. Comments
+	7. Notes
+	8. Protect
+	9. Ink
+
+7. View Tab
+	1. Sheet View
+	2. Workbook Views
+	3. Show
+	4. Zoom
+	5. Window
+	6. Macros
+
+8. Help Tab
+	1. Help
+	2. Community
