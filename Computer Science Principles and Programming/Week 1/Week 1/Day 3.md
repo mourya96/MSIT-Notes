@@ -22,9 +22,9 @@ The Decision making expressions are generally **True or False**.
 Example:
 
 ```python
-if (x < 5):
+if (x > 5):
     print(x)
 ```
 
-Here the decision making expression is `x < 5` and the action is `print(x)`.
+Here the decision making expression is `x > 5` and the action is `print(x)`.
 So we are printing the value of x if and only if x is greater than 5.
