@@ -66,4 +66,3 @@ a = a + 1
 Here we are assigning 4 and 7 to a and b respectively. In the third statement we are assigning b again to the result of `a - 2`. So python performs the operation `a-2` first which is 2 and this result is stored in `b`. So the previous value in b which 7 gets overwritten by the value 2. Hence the new value of b is 2.
 
 Again same thing happens with the `a`. The result of `a + 1` overwrites the previous value of `a`.
-
